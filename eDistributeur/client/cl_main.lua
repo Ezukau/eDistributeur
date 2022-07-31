@@ -163,3 +163,5 @@ Citizen.CreateThread(function()
         Citizen.Wait(wait)
     end
 end)
+
+print("Script by ^4Ezukau#1144")
